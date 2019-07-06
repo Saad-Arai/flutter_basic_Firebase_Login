@@ -1,6 +1,9 @@
 # sign_in
 
 A new Flutter application.
+First You create a Firebase Console and then its database to save and take Permission from user email and password It is just a simple app 
+#Disclaimer 
+"Firebase Setup is required to check the Sign in or Sign up Method"
 
 ## Getting Started
 
